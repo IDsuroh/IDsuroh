@@ -1,0 +1,1 @@
+Hello, this is suroh. I'm currently studying in 42 Lisboa and this Git page will be utilized for my progress in school as well as other Computer Science Studies. In the future, this page will be a part of my portfolio.
