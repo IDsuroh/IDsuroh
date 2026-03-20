@@ -12,7 +12,7 @@
   Currently working on 42 projects and studying at Ironhack, specializing in cybersecurity.
 </p>
 
-<br>
+
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center">Technologies I use and study</p>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<br>
+
 
 ## ⚡ Current Focus
 - Networking and systems programming
