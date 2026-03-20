@@ -14,7 +14,7 @@
 
 
 
-<h2 align="center">🛠 Tech Stack 🛠</h2>
+<h2 align="center">⚙️ Tech Stack ⚙️</h2>
 <p align="center">Technologies I use and study</p>
 
 <h3 align="center">Languages</h3>
@@ -39,7 +39,7 @@
 
 
 
-## ⚡ Current Focus
+## 💡 Current Focus
 - Networking and systems programming
 - Cybersecurity fundamentals
 - Linux and backend fundamentals
@@ -53,12 +53,9 @@
 - Linux Systems
 
 ## 🎓 Education
-- **Sogang University**
-  - Bachelor's Degree in Communication
-- **42**
-  - Project-based training in Systems programming
-- **Ironhack**
-  - Cybersecurity specialization
+- **Sogang University** | Bachelor’s Degree in Communication *(2017.03 ~ 2023.12)*
+- **42 Lisboa** | Systems Programming and Software Engineering *(2024.04 ~ Present)*
+- **Ironhack** | Cybersecurity *(2026.03 ~ 2026.09)*
 
 ## 📫 Contact
 - LinkedIn: [sungyop-roh](https://linkedin.com/in/sungyop-roh-a95b0b300)
