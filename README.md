@@ -1,7 +1,6 @@
 <p align="center">
   <strong style="font-size: 32px;">Hello 👋 I'm Sungyop Roh</strong>
-</p>
-<p align="center">
+  <br>
   From South Korea 🇰🇷, currently based in Portugal 🇵🇹
 </p>
 
