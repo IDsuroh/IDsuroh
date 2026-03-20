@@ -3,7 +3,7 @@
   <br>
   From South Korea, currently based in Portugal
   <br>
-  I am currently studying Systems Programming in 42 and Cybersecurity in Ironhack
+  I am currently studying <strong style="font-size: 32px;">Systems Programming in 42 and Cybersecurity in Ironhack</strong>
 </p>
 
 <p align="center">
