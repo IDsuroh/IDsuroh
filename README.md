@@ -2,8 +2,8 @@
   <strong style="font-size: 32px;">Hello 👋 I'm Sungyop Roh</strong>
   <br>
   From South Korea, currently based in Portugal
-
-  <b>I am studying Systems Programming</b> / <b> and I am a Cybersecurity Student</b>
+  <br>
+  I am currently studying Systems Programming in 42 and Cybersecurity in Ironhack
 </p>
 
 <p align="center">
