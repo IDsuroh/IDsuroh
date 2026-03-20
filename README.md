@@ -1,11 +1,9 @@
 <p align="center">
   <strong style="font-size: 32px;">Hello 👋 I'm Sungyop Roh</strong>
   <br>
-  From South Korea 🇰🇷, currently based in Portugal 🇵🇹
-</p>
+  From South Korea, currently based in Portugal
 
-<p align="center">
-  <b>Systems Programming</b> / <b>Cybersecurity Student</b>
+  <b>I am studying Systems Programming</b> / <b> and I am a Cybersecurity Student</b>
 </p>
 
 <p align="center">
