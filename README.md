@@ -1,35 +1,75 @@
-# Hi, I'm Sungyop Roh
-From South Korea, currently based in Portugal.
+<h1 align="center">Hello 👋 I'm Sungyop Roh</h1>
+<p align="center">
+  From South Korea 🇰🇷, currently based in Portugal 🇵🇹
+</p>
 
-Systems Programming and Cybersecurity Student
+<p align="center">
+  <b>Systems Programming</b> / <b>Cybersecurity Student</b>
+</p>
 
-I’m a student focused on C, C++, Linux, networking, and security.  
-Currently working on 42 projects and studying at Ironhack, specializing in cybersecurity.
+<p align="center">
+  I’m focused on C, C++, Linux, networking, and security.<br>
+  Currently working on 42 projects and studying at Ironhack, specializing in cybersecurity.
+</p>
 
-## Tech Stack
+<br>
 
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<h2 align="center">🛠 Tech Stack 🛠</h2>
+<p align="center">Technologies I use and study</p>
 
-### Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-### Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<h3 align="center">Tools & Environment</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-## Current Focus
+<h3 align="center">Web</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<br>
+
+## ⚡ Current Focus
 - Networking and systems programming
 - Cybersecurity fundamentals
+- Linux and backend fundamentals
+- Building strong C/C++ foundations
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+## 🔍 Interests
+- Information Security
+- System Security
+- Networking
+- Backend Development
+- Linux Systems
 
-## Contact
+## 🎓 Education
+- **42**
+  - Systems programming and software engineering projects
+- **Ironhack**
+  - Cybersecurity specialization
+
+## 📫 Contact
 - LinkedIn: [sungyop-roh](https://linkedin.com/in/sungyop-roh-a95b0b300)
 - Email: roh7891@gmail.com
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IDsuroh&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDsuroh&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+## 🧩 Featured Projects
+- **webserv** — HTTP server implementation in C++
+- **minishell** — Shell with parsing, pipes, and redirections
+- **fract-ol** — Interactive fractal renderer
+- **pipex** — Unix pipe recreation
