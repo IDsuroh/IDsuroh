@@ -53,8 +53,10 @@
 - Linux Systems
 
 ## 🎓 Education
+- **Sogang University**
+  - Bachelor's Degree in Communication
 - **42**
-  - Systems programming and software engineering projects
+  - Project-based training in Systems programming
 - **Ironhack**
   - Cybersecurity specialization
 
@@ -67,9 +69,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IDsuroh&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDsuroh&layout=compact&theme=tokyonight" height="165" />
 </p>
-
-## 🧩 Featured Projects
-- **webserv** — HTTP server implementation in C++
-- **minishell** — Shell with parsing, pipes, and redirections
-- **fract-ol** — Interactive fractal renderer
-- **pipex** — Unix pipe recreation
