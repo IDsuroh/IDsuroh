@@ -6,12 +6,7 @@
   I am currently studying <strong style="font-size: 32px;">Systems Programming in 42 and Cybersecurity in Ironhack</strong>
 </p>
 
-<p align="center">
-  I’m focused on C, C++, Linux, networking, and security.<br>
-  Currently working on 42 projects and studying at Ironhack, specializing in cybersecurity.
-</p>
-
-
+<br>
 
 <p align="center">
   <strong style="font-size: 28px;">⚙️ Tech Stack ⚙️</strong>
