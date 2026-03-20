@@ -1,3 +1,6 @@
+<br>
+<br>
+<br>
 <p align="center">
   <strong style="font-size: 32px;">Hello 👋 I'm Sungyop Roh</strong>
   <br>
@@ -5,7 +8,8 @@
   <br>
   I am currently studying <strong style="font-size: 32px;">Systems Programming in 42 and Cybersecurity in Ironhack</strong>
 </p>
-
+<br>
+<br>
 <br>
 
 ## 💡 Current Focus
