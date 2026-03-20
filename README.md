@@ -12,6 +12,10 @@
 <br>
 <br>
 
+## 🚀 Recent Projects
+- [webserv](https://github.com/IDsuroh/42_webserv) — HTTP server implementation in C++
+- [inception](https://github.com/IDsuroh/42_inception) — Docker-based infrastructure project with isolated NGINX, WordPress, and MariaDB containers
+
 ## 💡 Current Focus
 - Networking and systems programming
 - Cybersecurity fundamentals
