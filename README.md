@@ -1,4 +1,6 @@
-<h1 align="center">Hello 👋 I'm Sungyop Roh</h1>
+<p align="center">
+  <strong style="font-size: 32px;">Hello 👋 I'm Sungyop Roh</strong>
+</p>
 <p align="center">
   From South Korea 🇰🇷, currently based in Portugal 🇵🇹
 </p>
@@ -14,16 +16,18 @@
 
 
 
-<h2 align="center">⚙️ Tech Stack ⚙️</h2>
+<p align="center">
+  <strong style="font-size: 28px;">⚙️ Tech Stack ⚙️</strong>
+</p>
 <p align="center">Technologies I use and study</p>
 
-<h3 align="center">Languages</h3>
+<p align="center">Languages</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-<h3 align="center">Tools & Environment</h3>
+<p align="center">Tools & Environment</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -31,7 +35,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<h3 align="center">Web</h3>
+<p align="center">Web</p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
