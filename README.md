@@ -10,8 +10,8 @@
 
 <p align="center">
   <strong style="font-size: 28px;">⚙️ Tech Stack ⚙️</strong>
+  Technologies I use and study
 </p>
-<p align="center">Technologies I use and study</p>
 
 <p align="center">Languages</p>
 <p align="center">
